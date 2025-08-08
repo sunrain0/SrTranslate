@@ -1,4 +1,4 @@
-SrTranslate1.0</n>
+SrTranslate1.0</br>
 1.可以自定义特定词汇词典。
 2.翻译原文导入word文档。
 问题：
